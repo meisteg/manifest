@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="git://github.com/" />
+  <default revision="master"
+           remote="github" />
+
+  <project path="ads" name="meisteg/ads" />
+  <project path="featuredphoto" name="meisteg/featuredphoto" />
+  <project path="mailinglists" name="meisteg/mailinglists" />
+  <project path="openid" name="meisteg/openid" />
+  <project path="poll" name="meisteg/poll" />
+  <project path="twitter" name="meisteg/twitter" />
+  <project path="wiki" name="meisteg/wiki" />
+</manifest>
