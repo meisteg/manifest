@@ -1,0 +1,5 @@
+To clone all my phpWebSite modules, install repo (see http://source.android.com/download), and run:
+    mkdir phpws_modules
+    cd phpws_modules
+    repo init -u git://github.com/meisteg/phpwebsite-manifest.git
+    repo sync
