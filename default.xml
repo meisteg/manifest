@@ -6,10 +6,14 @@
            remote="github" />
 
   <project path="ads" name="meisteg/ads" />
+  <project path="android-mirroring" name="meisteg/android-mirroring" />
   <project path="featuredphoto" name="meisteg/featuredphoto" />
   <project path="mailinglists" name="meisteg/mailinglists" />
+  <project path="meisteg.github.com" name="meisteg/meisteg.github.com" />
   <project path="openid" name="meisteg/openid" />
+  <project path="phpwebsite-locale-gen" name="meisteg/phpwebsite-locale-gen" />
   <project path="poll" name="meisteg/poll" />
+  <project path="timelog" name="meisteg/timelog" />
   <project path="twitter" name="meisteg/twitter" />
   <project path="wiki" name="meisteg/wiki" />
 </manifest>
