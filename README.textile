@@ -1,6 +1,6 @@
-To clone all of "my GitHub projects":http://github.com/meisteg, "install repo":http://source.android.com/download, and run these commands from the terminal:
+To clone all of "my GitHub projects":http://github.com/meisteg, "install repo":http://source.android.com/source/downloading.html#installing-repo, and run these commands from the terminal:
 
-* @mkdir github_meisteg@
-* @cd github_meisteg@
-* @repo init -u git://github.com/meisteg/manifest.git@
-* @repo sync@
+bc. mkdir github_meisteg
+cd github_meisteg
+repo init -u https://github.com/meisteg/manifest.git
+repo sync
